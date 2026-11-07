@@ -1,6 +1,6 @@
-# TMStore Catalog
+# Lavunio Catalog
 
-Каталог режимов для лаунчера TMStore.
+Каталог режимов для лаунчера Lavunio.
 
 ## Структура
 
@@ -15,12 +15,10 @@
 Лаунчер по умолчанию загружает каталог по адресу:
 
 ```text
-https://raw.githubusercontent.com/tommy-whinston/TMStore-Catalog/main/modes/modes.json
+https://raw.githubusercontent.com/tommy-whinston/Lavunio-Catalog/main/modes/modes.json
 ```
-
-Адрес можно изменить в настройках лаунчера в поле «Источник каталога».
 
 ## Публикация
 
-TMPublisher пишет каталог и файлы режимов в этот репозиторий через GitHub API.
+Lavunio Publisher пишет каталог и файлы режимов в этот репозиторий через GitHub API.
 Позже публикация будет переведена на API магазина.
